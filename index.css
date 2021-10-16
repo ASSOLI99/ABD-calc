@@ -31,3 +31,11 @@ body{
     border: black 4px ;
     border-style: double;
 }
+div div:hover{
+    cursor: pointer;
+    color: black;
+}
+.screen:hover{
+    cursor: text;
+    color: blanchedalmond;
+}
